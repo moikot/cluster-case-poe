@@ -1,0 +1,15 @@
+Designator,Name,Value,Amount,Case,Link
+X1,Connector,SSW-104-02-G-S-RA,1,,https://no.mouser.com/ProductDetail/SSW-104-02-G-S-RA
+X2,Connector,KF2510-AW 3+1P,1,,https://www.aliexpress.com/item/32961935772.html
+C1,Capacitor,2.2uF 10V,1,0603,https://no.mouser.com/ProductDetail/187-CL10A225KP8NNNC
+C2,Capacitor,10uF 16V,1,0805,https://no.mouser.com/ProductDetail/187-CL21A106KOQNNNE
+"C3,C4",Capacitor,0.1uF 10V,2,0402_L,https://no.mouser.com/ProductDetail/187-CL05A104KP5NNWC
+L1,Inductor,10uH,1,1210,https://no.mouser.com/ProductDetail/963-CBC3225T100KR
+D1,Schottky Diode,,1,DO-216AA,https://no.mouser.com/ProductDetail/863-MBRM140T1G
+R1,Resistor,43.2K,1,0603,https://no.mouser.com/ProductDetail/603-RC0603FR-0743K2L
+R2,Resistor,4.99K,1,0603,https://no.mouser.com/ProductDetail/603-RC0603FR-074K99L
+"R3,R4,R6",Resistor,10K,3,0402,https://no.mouser.com/ProductDetail/603-RC0402FR-0710KL
+R5,Resistor,5.6K,1,0402,https://no.mouser.com/ProductDetail/603-AC0402FR-075K6L
+U1,Voltage regulator,MIC2288YD5-TR,1,SOT-23-5,https://no.mouser.com/ProductDetail/998-MIC2288YD5TR
+U2,Fan controller,EMC2101-R-ACZL-TR,1,MSOP-8,https://no.mouser.com/ProductDetail/886-EMC2101RACZLTR
+U3,LDO 3.3V,AP7313-33SRG-7,1,SOT-23-3,https://no.mouser.com/ProductDetail/621-AP7313-33SRG-7

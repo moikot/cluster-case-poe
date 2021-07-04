@@ -1,0 +1,7 @@
+Designator,Name,Value,Amount,Case,Link
+X1,Connector,ESQ-102-12-G-D,1,,https://no.mouser.com/ProductDetail/200-ESQ10212GD
+X2,Connector,ESQ-105-12-G-D,1,,https://no.mouser.com/ProductDetail/200-ESQ10512GD
+X3,Connector,TSW-102-08-G-D-RA,1,,https://no.mouser.com/ProductDetail/TSW-102-08-G-D-RA
+"C1,C2",Capacitor,22uF 100V,2,,https://no.mouser.com/ProductDetail/667-ECA-2AM220I
+"C3,C4",Capacitor,330uF 10V,2,,https://no.mouser.com/ProductDetail/667-EEU-FS1A331
+RT5400,PoE module,RT5400 5V,1,,https://www.aliexpress.com/item/33038562052.html
